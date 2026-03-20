@@ -101,7 +101,7 @@ print(me.current_work())
 
 <!-- Activity Graph -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShannaSiriwardana&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=7c3aed" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shannav&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=7c3aed" width="95%"/>
 </div>
 
 ---
