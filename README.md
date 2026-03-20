@@ -4,13 +4,13 @@
 <!--                    HEADER SECTION                       -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=750&lines=Shanuka+Siriwardana" alt="Shanuka Siriwardana" />
+<img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=800&size=42&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=750&lines=Shanuka+Siriwardana" alt="Shanuka Siriwardana" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=400&size=17&duration=1&pause=999999&color=818CF8&center=true&vCenter=true&width=750&lines=Data+Analyst+%E2%80%A2+AI+%26+Automation+Specialist+%E2%80%A2+Data+Engineer" alt="Role" />
+<img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=400&size=17&duration=1&pause=999999&color=818CF8&center=true&vCenter=true&width=750&lines=Data+Analyst+%E2%80%A2+AI+%26+Automation+Specialist+%E2%80%A2+Data+Engineer" alt="Role" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=680&lines=%F0%9F%93%8A+Turning+raw+data+into+strategic+decisions;%F0%9F%A4%96+Building+intelligent+AI+automation+pipelines;%E2%98%81%EF%B8%8F+Designing+scalable+data+infrastructure;%E2%9A%A1+Passionate+about+AI+%26+data+innovation" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=15&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=680&lines=%F0%9F%93%8A+Turning+raw+data+into+strategic+decisions;%F0%9F%A4%96+Building+intelligent+AI+automation+pipelines;%E2%98%81%EF%B8%8F+Designing+scalable+data+infrastructure;%E2%9A%A1+Passionate+about+AI+%26+data+innovation" alt="Typing" />
 
 <br/><br/>
 
@@ -120,8 +120,6 @@ Results-driven **Data & AI Automation Specialist** with deep expertise in comple
 
 <div align="center">
 
-<!-- Using skill icons instead of broken trophy widget -->
-
 | 🎯 Metric | 📈 Highlight |
 |:----------|:-------------|
 | 🤖 **AI & Automation** | Built end-to-end AI pipelines saving 40%+ manual effort |
@@ -161,7 +159,7 @@ Results-driven **Data & AI Automation Specialist** with deep expertise in comple
 
 | 🚀 Project | 📋 Description | 🛠 Stack | 📌 Status |
 |:-----------|:---------------|:---------|:---------:|
-| 🤖 **POS System AI** | AI-powered point-of-sale with intelligent inventory analytics & automated reporting | Python · ML · React | ![Live](https://img.shields.io/badge/LIVE-22c55e?style=flat-square&logoColor=white) |
+| 🤖 **POS System AI** | AI-powered point-of-sale with intelligent inventory analytics & automated reporting | Python · ML · React | ![Live](https://img.shields.io/badge/LIVE-22c55e?style=flat-square) |
 | 🔁 **Shannav Platform** | Automation & workflow orchestration platform | Node.js · APIs | ![Active](https://img.shields.io/badge/ACTIVE-6366f1?style=flat-square) |
 | 📊 **Analytics Dashboard** | Real-time BI dashboard with predictive AI insights | React · D3.js · FastAPI | ![Building](https://img.shields.io/badge/BUILDING-f59e0b?style=flat-square) |
 | 🧠 **ML Pipeline Toolkit** | End-to-end ML pipeline with automated training & deployment | Python · Airflow · Docker | ![Planned](https://img.shields.io/badge/PLANNED-475569?style=flat-square) |
@@ -269,7 +267,7 @@ Results-driven **Data & AI Automation Specialist** with deep expertise in comple
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=999999&color=475569&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+%E2%80%94+Have+a+great+day+%F0%9F%91%8B" />
+<img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=13&weight=400&duration=1&pause=999999&color=475569&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+%E2%80%94+Have+a+great+day+%F0%9F%91%8B" />
 
 <br/>
 
