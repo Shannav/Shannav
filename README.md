@@ -8,7 +8,15 @@ I am a results-driven Data & AI Automation Specialist with expertise in analyzin
 
 ## 🚀 My Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,docker,aws" />
+ <p align="left">
+  <img src="https://skillicons.dev/icons?i=excel,powerbi,python,r,mysql,php,js,docker,looker" />
+   <p align="left">
+  <img src="https://img.shields.io/badge/Power_Automate-2560E0?style=for-the-badge&logo=power-automate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Apps-0078D4?style=for-the-badge&logo=power-apps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+</p>
 </p>
 
 ---
