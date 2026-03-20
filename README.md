@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile views + followers badges -->
-<img src="https://komarev.com/ghpvc/?username=ShannaSiriwardana&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Shannav&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/ShannaSiriwardana?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" />
 
@@ -89,7 +89,7 @@ print(me.current_work())
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shannav&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&bg_color=0d1117&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShannaSiriwardana&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shannav&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&langs_count=8"/>
 
 </div>
 
