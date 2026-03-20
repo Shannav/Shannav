@@ -5,7 +5,6 @@
 
 ## ⚡ About Me
 I am a results-driven Data & AI Automation Specialist with expertise in analyzing complex datasets, managing data infrastructure, and designing intelligent automation solutions. I combine strong analytical skills with proficiency in AI, machine learning, and process automation to help organizations transform data into actionable insights and optimize workflows. Passionate about leveraging technology to solve business challenges efficiently, I thrive at the intersection of data analysis, AI innovation, and automation.
----
 
 ## 🚀 My Tech Stack
 <p align="left">
