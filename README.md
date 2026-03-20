@@ -87,7 +87,7 @@ print(me.current_work())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShannaSiriwardana&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shannav&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&bg_color=0d1117&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShannaSiriwardana&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&langs_count=8"/>
 
@@ -95,7 +95,7 @@ print(me.current_work())
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShannaSiriwardana&theme=transparent&hide_border=true&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&sideNums=e2e8f0&dates=94a3b8&background=0d1117" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shannav&theme=transparent&hide_border=true&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&sideNums=e2e8f0&dates=94a3b8&background=0d1117" alt="GitHub Streak" />
 
 </div>
 
@@ -109,7 +109,7 @@ print(me.current_work())
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShannaSiriwardana&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shannav&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -119,11 +119,11 @@ print(me.current_work())
 <div align="center">
 
 <a href="https://github.com/ShannaSiriwardana/POS_System_AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShannaSiriwardana&repo=POS_System_AI&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&icon_color=7c3aed" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shannav&repo=POS_System_AI&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&icon_color=7c3aed" />
 </a>
 &nbsp;
 <a href="https://github.com/ShannaSiriwardana/testing-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShannaSiriwardana&repo=testing-&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&icon_color=7c3aed" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shannav&repo=testing-&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&icon_color=7c3aed" />
 </a>
 
 </div>
