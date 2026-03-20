@@ -1,17 +1,10 @@
 # Hi there, I'm Shanuka Siriwardana 👋 
-### [Your Title: e.g., Full-Stack Software Engineer | Cloud Architect]
+### Data Analyst | Data Specialist | AI & Automation Expert
 
 ---
 
 ## ⚡ About Me
-I am a passionate **Software Engineer** based in **[Your City, Country]**. I specialize in building scalable web applications and exploring emerging technologies. 
-
-* 🔭 I’m currently working on **[Project Name/Field]**
-* 🌱 I’m currently learning **[Technology, e.g., Kubernetes or Rust]**
-* 👯 I’m looking to collaborate on **Open Source Projects**
-* 💬 Ask me about **[Your Core Skills]**
-* 📫 How to reach me: **[Your Email/LinkedIn Link]**
-
+I am a results-driven Data & AI Automation Specialist with expertise in analyzing complex datasets, managing data infrastructure, and designing intelligent automation solutions. I combine strong analytical skills with proficiency in AI, machine learning, and process automation to help organizations transform data into actionable insights and optimize workflows. Passionate about leveraging technology to solve business challenges efficiently, I thrive at the intersection of data analysis, AI innovation, and automation.
 ---
 
 ## 🚀 My Tech Stack
